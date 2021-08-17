@@ -1,0 +1,4 @@
+## Interface: 90100
+## Title: Auction Reposter
+## Author: Kenrad24
+## Version: 0.1
